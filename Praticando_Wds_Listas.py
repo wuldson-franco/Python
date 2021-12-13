@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # <font color='blue'>Data Science Academy - Python Fundamentos - Capítulo 2</font>
+# # <font color='blue'>Listas</font>
 # 
-# ## Download: http://github.com/dsacademybr
+# ## 
 
 # In[ ]:
 
